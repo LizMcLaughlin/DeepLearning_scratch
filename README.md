@@ -7,7 +7,7 @@ Implementing deep learning algorithms without use of python's ML libraries. Cont
 
 - ADAM_LogisticRegression.ipynb - implements/visualizes the ADAM learning rate and logistic regression on the [MNIST dataset](https://www.kaggle.com/oddrationale/mnist-in-csv)
 - Multi-ClassClassifier.ipynb - implements single layer MC classifier from scratch using sigmoid activation function and cross entropy activation on the 'MC_data' dataset 
-- MC_data/ directory - holds data for Multi-ClassClassifier.ipynb
+- MC_data.zip - holds data for Multi-ClassClassifier.ipynb
 
 ## To Run
 
