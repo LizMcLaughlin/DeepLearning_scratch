@@ -11,7 +11,8 @@ Implementing deep learning algorithms without use of python's ML libraries. Cont
 
 ## To Run
 
-Download files and data (as listed with file) into jupyter notebooks, and run cells.
+- ADAM_LogisticRegression.ipynb - Download files and data (download data from link in 'Files') into jupyter notebooks, and run cells
+- Multi-ClassClassifier.ipynb - Unzip MC_data directory. Open in juptyper notebook and run cells.
 
 ## Results
 
