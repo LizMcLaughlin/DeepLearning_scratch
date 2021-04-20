@@ -11,7 +11,7 @@ Implementing deep learning algorithms without use of python's ML libraries. Cont
 
 ## To Run
 
-- ADAM_LogisticRegression.ipynb - Download files and data (download data from link in 'Files') into jupyter notebooks, and run cells
+- ADAM_LogisticRegression.ipynb - Download files and [MNIST dataset](https://www.kaggle.com/oddrationale/mnist-in-csv) into jupyter notebooks, and run cells
 - Multi-ClassClassifier.ipynb - Unzip MC_data directory. Open in juptyper notebook and run cells.
 
 ## Results
