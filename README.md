@@ -31,7 +31,7 @@ Model classified 100% of test samples correctly! Woot woot!
 
 ### Multi-Class Classifier (Multi-ClassClassifier.ipynb)
 
-Accuracy = 92%
+Accuracy = 92%. 
 See below visualization of epoch vs cost function (J)
 
 ![alt text](https://github.com/LizMcLaughlin/images/blob/main/MCC.png)
