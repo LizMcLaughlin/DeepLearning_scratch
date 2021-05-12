@@ -1,6 +1,6 @@
 # Deep Learning Algorithms From Scratch
 
-Implementing deep learning algorithms without use of python's ML libraries. Contrained to use of numpy, matplotlib, opencv. 
+Implementing deep learning algorithms without use of python's ML libraries. Constrained to use of numpy, matplotlib, opencv. 
 
 
 ## Files
